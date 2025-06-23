@@ -1,4 +1,0 @@
-mkdir docs
-echo "# Welcome" > docs/index.md
-git add docs/index.md
-git commit -m "Create docs directory with index.md"
